@@ -1,0 +1,5 @@
+{
+  "COGNITIVE_SERVICES_API_KEY": "1ea11d39facc483c86c4413d7c0ba51c",
+  "COGNITIVE_SERVICES_ENDPOINT": "https://system-integration-akshay.cognitiveservices.azure.com/",
+  "PORT": 8080
+}
